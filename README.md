@@ -21,7 +21,3 @@ const aboutMe = {
    funFact: "Did you know that the first computer bug was an actual insect?"
 };
 ```
-</br></br>
-<h2>💻 Some stats 💻</h2>
-
-![Abba-ops github stats](https://github-readme-stats.vercel.app/api?username=Abba-ops&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
