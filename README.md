@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-<p><em>I'm a software engineering student at Thomas Adewumi University, passionate about coding and building innovative solutions to real-world problems. I'm always looking for opportunities to learn and grow as a developer, and I'm excited to collaborate with others on interesting projects.</br>
-</em></p>
+<p>I'm a software engineering student at Thomas Adewumi University, passionate about coding and building innovative solutions to real-world problems. I'm always looking for opportunities to learn and grow as a developer, and I'm excited to collaborate with others on interesting projects.</br>
+</p>
 
 
 ```javascript
