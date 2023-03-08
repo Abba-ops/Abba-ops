@@ -21,3 +21,6 @@ const aboutMe = {
    funFact: "Did you know that the first computer bug was an actual insect?"
 };
 ```
+
+## Projects
+- [HooBank](https://cozy-salamander-457485.netlify.app/): Hoobank is a Github repository for a prototype of a bank webpage developed solely for learning purposes. The website was built using React.js and was designed to demonstrate how to convert a Figma design into a responsive webpage.
