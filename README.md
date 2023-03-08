@@ -23,9 +23,9 @@ const aboutMe = {
 ```
 
 ## Projects
-- [**HooBank Modern Website**](https://cozy-salamander-457485.netlify.app/)
+### [**HooBank Modern Website**](https://cozy-salamander-457485.netlify.app/)
 - ### Introduction
 Hoobank is a Github repository for a prototype of a bank webpage developed solely for learning purposes. The website was built using React.js and was designed to demonstrate how to convert a Figma design into a responsive webpage.
-- [**Huddle Landing Page**](https://musical-daffodil-fbc0da.netlify.app/)
+### [**Huddle Landing Page**](https://musical-daffodil-fbc0da.netlify.app/)
 - ### Introduction 
 Huddle is a website that was developed for learning purposes using JavaScript, ReactJS, and Styled Components. The Huddle repository on GitHub contains all the necessary code and files required to run the website.
