@@ -1,7 +1,7 @@
 <img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>I'm a software engineering student at Thomas Adewumi University, passionate about coding and building innovative solutions to real-world problems. I'm always looking for opportunities to learn and grow as a developer, and I'm excited to collaborate with others on interesting projects.</br>
 </em></p>
 
 
