@@ -28,3 +28,7 @@ const aboutMe = {
 <em>
    I'm always looking to learn new technologies and improve my skills. Currently, I'm focused on mastering TypeScript and Next.js.
 </em>
+
+## 📫 Get in touch
+- Email: johnbabs182@gmail.com
+- Instagram: https://www.instagram.com/jadesolakajeyale/
