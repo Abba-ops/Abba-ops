@@ -14,21 +14,14 @@ const aboutMe = {
          css: ["Material UI", "Chakra UI", "Bootstrap", "Tailwind CSS", "Vanilla CSS", "SASS"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "mySQL"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
 };
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Abba-ops&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
----
+![Abba-ops github stats](https://github-readme-stats.vercel.app/api?username=Abba-ops&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
