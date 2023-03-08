@@ -24,7 +24,7 @@ const aboutMe = {
 };
 ```
 
-## Currently Learning
+## 🌱 Currently Learning
 <em>
    I'm always looking to learn new technologies and improve my skills. Currently, I'm focused on mastering TypeScript and Next.js.
 </em>
