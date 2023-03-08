@@ -24,13 +24,7 @@ const aboutMe = {
 };
 ```
 
-## Projects
-### [**HooBank Modern Website**](https://cozy-salamander-457485.netlify.app/)
-- ### Introduction
-Hoobank is a Github repository for a prototype of a bank webpage developed solely for learning purposes. The website was built using React.js and was designed to demonstrate how to convert a Figma design into a responsive webpage.
-### [**Huddle Landing Page**](https://musical-daffodil-fbc0da.netlify.app/)
-- ### Introduction 
-Huddle is a website that was developed for learning purposes using JavaScript, ReactJS, and Styled Components. The Huddle repository on GitHub contains all the necessary code and files required to run the website.
-### [**Frontend Bootcamp Website**](https://chimerical-kringle-1bb7d5.netlify.app/)
-- ### Introduction 
-The Fake Frontend Bootcamp is a Github repository for a web page developed solely for learning purposes. The web page was built using Bootstrap and was designed to simulate a frontend bootcamp website.
+## Currently Learning
+<em>
+   I'm always looking to learn new technologies and improve my skills. Currently, I'm focused on mastering TypeScript and Next.js.
+</em>
