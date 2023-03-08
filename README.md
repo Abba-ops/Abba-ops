@@ -32,3 +32,4 @@ const aboutMe = {
 ## 📫 Get in touch
 - Email: johnbabs182@gmail.com
 - Instagram: https://www.instagram.com/jadesolakajeyale/
+- WhatsApp:  https://wa.me/+2349064014780
