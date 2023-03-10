@@ -12,13 +12,13 @@ const aboutMe = {
    code: [Javascript, Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Next", "Remix"],
+         js: ["React", "Next.js", "Remix"],
          css: ["Material UI", "Chakra UI", "Bootstrap", "Tailwind CSS", "SASS"]
       },
       backEnd: {
-         js: ["Node", "Express"],
+         js: ["Node.js", "Express.js"],
       },
-      databases: ["MongoDB", "MySQL"],
+      databases: ["MongoDB", "MySQL", "Firebase"],
    },
    funFact: "Did you know that the first computer bug was an actual insect?"
 };
@@ -32,4 +32,4 @@ const aboutMe = {
 ## 📫 Get in touch
 - Email: johnbabs182@gmail.com
 - Instagram: https://www.instagram.com/jadesolakajeyale/
-- WhatsApp:  https://wa.me/+2349064014780
+- WhatsApp: https://wa.me/+2349064014780
