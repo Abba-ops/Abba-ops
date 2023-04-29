@@ -9,16 +9,16 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" || "him",
-   code: [Javascript, Typescript, HTML, CSS],
+   code: [Javascript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Next.js", "Remix"],
+         js: ["React", "Next.js"],
          css: ["Material UI", "Chakra UI", "Bootstrap", "Tailwind CSS", "SASS"]
       },
       backEnd: {
          js: ["Node.js", "Express.js"],
       },
-      databases: ["MongoDB", "MySQL", "Firebase"],
+      databases: ["MongoDB", "Firebase"],
    },
    funFact: "Did you know that the first computer bug was an actual insect?"
 };
