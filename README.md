@@ -2,18 +2,18 @@
 
 <p>
    <em>
-      I'm a web developer with a passion for building scalable, efficient, and user-friendly web applications. I enjoy working with various web development                   technologies and frameworks to create solutions that meet the needs of businesses and individuals alike.
+      I'm a web developer with a passion for building scalable, efficient, and user-friendly web applications. I enjoy working with various web development technologies and frameworks to create solutions that meet the needs of businesses and individuals alike.
    </em>
 </p>
 
 ```javascript
 const aboutMe = {
    pronouns: "he" || "him",
-   code: [Javascript, HTML, CSS],
+   code: [JavaScript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "Next.js"],
-         css: ["Material UI", "Chakra UI", "Bootstrap", "Tailwind CSS", "SASS"]
+         js: ["React", "Vanilla JavaScript"],
+         css: ["Bootstrap", "Tailwind CSS"]
       },
       backEnd: {
          js: ["Node.js", "Express.js"],
@@ -22,14 +22,3 @@ const aboutMe = {
    },
    funFact: "Did you know that the first computer bug was an actual insect?"
 };
-```
-
-## 🌱 Currently Learning
-<em>
-   I'm always looking to learn new technologies and improve my skills. Currently, I'm focused on mastering TypeScript and Next.js.
-</em>
-
-## 📫 Get in touch
-- Email: johnbabs182@gmail.com
-- Instagram: https://www.instagram.com/jadesolakajeyale/
-- WhatsApp: https://wa.me/+2349064014780
