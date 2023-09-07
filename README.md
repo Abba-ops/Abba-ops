@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! 👋 I'm a web developer with a passion for building scalable, efficient, and user-friendly web applications. I enjoy working with various web development technologies and frameworks to create solutions that meet the needs of businesses and individuals alike.
+Hello there! I'm a web developer passionate about creating innovative and user-friendly web applications. With a strong foundation in technologies like HTML, CSS, and JavaScript, I specialize in both front-end and back-end development. I'm excited to bring your digital ideas to life!
 
 ## About Me
 
