@@ -12,12 +12,14 @@ const aboutMe = {
    code: ["JavaScript", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: ["React", "JavaScript"],
+         js: ["React", "JavaScript", "TypeScript", "Next.js", "Redux"],
          css: ["Bootstrap", "Tailwind CSS"]
       },
       backEnd: {
          js: ["Node.js", "Express.js"]
       },
-      databases: ["MongoDB", "Firebase"]
+      databases: ["MongoDB", "Firebase"],
+      versionControl: ["Git", "GitHub"],
+      tools: ["VS Code", "Postman"]
    }
 };
