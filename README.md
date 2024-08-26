@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there! I'm a web developer passionate about creating innovative and user-friendly web applications. With a strong foundation in technologies like HTML, CSS, and JavaScript, I specialize in both front-end and back-end development. I'm excited to bring your digital ideas to life!
+Hello there! I'm a developer passionate about creating innovative and user-friendly web applications. With a strong foundation in technologies like HTML, CSS, and JavaScript, I specialize in both front-end and back-end development. I'm excited to bring your digital ideas to life!
 
 ## About Me
 
