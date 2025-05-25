@@ -21,7 +21,7 @@ const aboutMe = {
     backEnd: {
       frameworks: ["Node.js", "Express.js"]
     },
-    databases: ["MongoDB", "Firebase"],
+    databases: ["MongoDB", "Firebase", "SQL"],
     versionControl: ["Git", "GitHub"],
     tools: ["VS Code", "Postman"]
   },
